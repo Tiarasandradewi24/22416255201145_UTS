@@ -1,0 +1,6 @@
+Soal No.1
+1.  Apa yang dimaksud dengan framework pada pengembangan aplikasi?
+    (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+    Jawaban : Struktur dasar untuk mengembangkan perangkat lunak, dimana framework menyediakan
+              serangkaian aturan, atau pedoman untuk memudahkan dalam membangun dan mengembangkan
+              perangkat lunak dengan cepat dan terorganisasi.
